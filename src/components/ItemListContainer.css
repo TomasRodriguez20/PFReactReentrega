@@ -1,0 +1,17 @@
+p{
+    color: rgb(9, 54, 79);
+    font-size: xx-large;
+    font-family: cursive;
+}
+.contenedorPromp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1300px;
+    height: 600px;
+    background-color: rgb(122, 145, 141);
+}
+section{
+    display: flex;
+    flex-direction: column !important;
+}
